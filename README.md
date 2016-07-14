@@ -12,7 +12,7 @@ bower install
 Start dev server
 
 ```
-ember server
+npm start
 ```
 
 Ues [ember-hoodie](https://github.com/courajs/ember-hoodie). If you see an error
